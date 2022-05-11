@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="172.16.12.205" id="196f7253-dc49-4c33-992f-25b87f571229" port="22" customName="Sar Drone" nameFormat="CUSTOM" username="rescue-drone-c">
+        <option name="customName" value="Sar Drone" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
